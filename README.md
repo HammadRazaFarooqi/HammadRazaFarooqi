@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadrazafarooqi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadrazafarooqi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://hammadrazafarooqi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://hammadrazafarooqi.vercel.app)
 
 📧 **Email:** hammadrazafarooqi@gmail.com  
 🌐 **Portfolio:** https://hammadrazafarooqi.vercel.app/
